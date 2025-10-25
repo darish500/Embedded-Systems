@@ -21,7 +21,7 @@ SoftwareSerial gsmSerial(GSM_RX, GSM_TX); // SIM800L serial
 TinyGPSPlus gps;                          // GPS object
 
 // ===== VARIABLES =====
-String phoneNumber = "+2348169639936"; // replace with your number
+String phoneNumber = "+"; // replace with your number
 bool smsSent = false;
 const int sampleCount = 10;
 
