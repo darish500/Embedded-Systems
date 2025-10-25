@@ -10,8 +10,8 @@ const char* ssid = "Traffic";
 const char* password = "trafic123";
 
 // ====== Telegram Credentials ======
-#define BOTtoken "8248678690:AAHeDBU6BqSYqDH0Mu6FXTlmnhXw-wn2euA"
-#define CHAT_ID  "7637859403"
+#define BOTtoken ""
+#define CHAT_ID  ""
 
 // ====== Camera Pin Config for AI Thinker ======
 #define PWDN_GPIO_NUM     32
